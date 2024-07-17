@@ -1,0 +1,35 @@
+.car-logo{
+    margin-right: 1rem;
+}
+.display-5{
+    font: size 65px;
+    word-spacing: 6px;
+    
+}
+.pb-2{
+    font-weight: 500;
+}
+svg{
+    background-color:white;
+}
+.row{
+    margin-left: 5px;
+    margin-right:5px;
+    align-items: center;
+}
+.btn-group .btn{
+    
+color: white;
+background-color:blueviolet;
+font-weight: 400px;
+
+}
+.display-4 img {
+    margin-right: 20px;
+}
+.bg-body-tertiary{
+    align-items: center;
+}
+.col-md-7{
+align-items: center;
+}
